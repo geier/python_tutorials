@@ -1,0 +1,11 @@
+**/.cache
+**/build
+**/dist
+**/.tox
+**/__pycache__
+**/*.ipynb_checkpoints
+**/.hypothesis
+**/*.pyc
+**/*.pytest_cache
+**/*egg-info
+
